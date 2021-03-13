@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/denverapp/static/css/main.9c0a2d8b.chunk.css",
+    "main.js": "/denverapp/static/js/main.1b705ff9.chunk.js",
+    "main.js.map": "/denverapp/static/js/main.1b705ff9.chunk.js.map",
+    "runtime-main.js": "/denverapp/static/js/runtime-main.f43a04b2.js",
+    "runtime-main.js.map": "/denverapp/static/js/runtime-main.f43a04b2.js.map",
+    "static/js/2.4a0107a7.chunk.js": "/denverapp/static/js/2.4a0107a7.chunk.js",
+    "static/js/2.4a0107a7.chunk.js.map": "/denverapp/static/js/2.4a0107a7.chunk.js.map",
+    "static/js/3.c5ea52f6.chunk.js": "/denverapp/static/js/3.c5ea52f6.chunk.js",
+    "static/js/3.c5ea52f6.chunk.js.map": "/denverapp/static/js/3.c5ea52f6.chunk.js.map",
+    "index.html": "/denverapp/index.html",
+    "static/css/main.9c0a2d8b.chunk.css.map": "/denverapp/static/css/main.9c0a2d8b.chunk.css.map",
+    "static/js/2.4a0107a7.chunk.js.LICENSE.txt": "/denverapp/static/js/2.4a0107a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f43a04b2.js",
+    "static/js/2.4a0107a7.chunk.js",
+    "static/css/main.9c0a2d8b.chunk.css",
+    "static/js/main.1b705ff9.chunk.js"
+  ]
+}
